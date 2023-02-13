@@ -1,0 +1,9 @@
+torch
+torchvision
+cogdl
+numpy
+matplotlib
+opencv-python
+torch-scatter
+igraph
+pycairo
